@@ -14,7 +14,7 @@
                         <h1 class="text-4xl">Economic Response Organization Zambia (EROZ)</h1>
                         <h2 class="text-xl font-bold mt-4">Empowering Zambians for Economic Freedom</h2>
                         <br>
-                        <Link class="p-4 rounded my-4 hover:bg-sky-800 transition border mr-4">Join us
+                        <Link href="/register" class="p-4 rounded my-4 hover:bg-sky-800 transition border mr-4">Join us
                         in creating a better
                         future</Link>
                         <Link href="/about" class="bg-teal-500 p-4 rounded my-4 hover:bg-sky-800 transition border">

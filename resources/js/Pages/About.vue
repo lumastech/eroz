@@ -51,12 +51,24 @@
                                 services.</p>
                             <h3 class="text-xl mt-4 font-bold">Objectives</h3>
                             <ul>
-                                <li>Participate in research and provide consultancy.</li>
-                                <li>Advocate for government policy that supports economic independence.</li>
-                                <li>Advocate for morality and zero corruption in all spheres of the economy.</li>
-                                <li>Develop and sharpen members' skills, talents, and ideas.</li>
-                                <li>Carry out economic activities.</li>
-                                <li>Training in wealth creation and personal development.</li>
+                                <li class="flex py-2 border-b border-gray-300"><img src="../../assets/tick.png" alt=""
+                                        class="w-9">
+                                    <p class="self-center">Participate in research and provide consultancy.</p>
+                                </li>
+                                <li class="flex py-2 border-b border-gray-300"><img src="../../assets/tick.png" alt=""
+                                        class="w-9">
+                                    <p class="self-center">Advocate for government policy that supports economic
+                                        independence.</p>
+                                </li>
+                                <li class="flex py-2 border-b border-gray-300"><img src="../../assets/tick.png" alt=""
+                                        class="w-9"> <p class="self-center">Advocate for morality and zero corruption in all spheres of the
+                                    economy.</p></li>
+                                <li class="flex py-2 border-b border-gray-300"><img src="../../assets/tick.png" alt=""
+                                        class="w-9"> <p class="self-center">Develop and sharpen members' skills, talents, and ideas.</p></li>
+                                <li class="flex py-2 border-b border-gray-300"><img src="../../assets/tick.png" alt=""
+                                        class="w-9"> <p class="self-center">Carry out economic activities.</p></li>
+                                <li class="flex py-2 border-b border-gray-300"><img src="../../assets/tick.png" alt=""
+                                        class="w-9"> <p class="self-center">Training in wealth creation and personal development.</p></li>
                             </ul>
                         </div>
                         <div class="p-4 border bg-teal-500 text-white rounded">
